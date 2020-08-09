@@ -1,0 +1,32 @@
+{
+  "name": "challenge-magrathea-backend",
+  "version": "1.0.0",
+  "description": "Backend to the Magrathea Challenge App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest --setupFiles tests/setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/analimazn/challenge-magrathea-backend.git"
+  },
+  "author": "analimazn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/analimazn/challenge-magrathea-backend/issues"
+  },
+  "homepage": "https://github.com/analimazn/challenge-magrathea-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.2",
+    "pg": "^8.3.0"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "nodemon": "^2.0.4",
+    "sqlite3": "^5.0.0"
+  }
+}
