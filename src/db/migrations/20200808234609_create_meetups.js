@@ -1,7 +1,7 @@
 
 exports.up = function(knex) {
   return knex.schema.createTable('meetups', function (table) {
-    table.increments('id')
+    table.integer('id').primary()
     table.string('name').notNullable()
     table.string('description')
     table.string('url_logo')
