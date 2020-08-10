@@ -1,11 +1,18 @@
 {
-  "city": "Joinville",
+  "country": "Brasil",
   "state": "Santa Catarina",
-  "country": "Brazil",
+  "city": "Joinville",
+  "address": {
+    "place": "SESC Joinville (America)",
+    "neighborhood": "América",
+    "street": "Rua Itaiopolis",
+    "number": "470",
+    "code": "89204-100"
+  },
   "data": [
     {
       "name": "React Joinville",
-      "logo": "react.png",
+      "logo": "https://drive.google.com/file/d/1RiAFy8ZP8K-eDMvA8boGr3Dpb2GrMXXw/view",
       "description": "Meetup para discutirmos e aprendermos juntos sobre React, React Native e tudo que gira em torno desse ecossistema.",
       "events": [
         {
@@ -13,13 +20,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -27,13 +27,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -41,13 +34,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -55,13 +41,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -69,13 +48,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -83,20 +55,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "Agile Joinville",
-      "logo": "agile.png",
+      "logo": "https://drive.google.com/file/d/1AL-eJSvQ8JK4MkcSZxN_M1NvK_0sHaQ5/view",
       "description": "Este grupo é destinado a todos os interessados nas práticas de metodologias ágeis de desenvolvimento de software.",
       "events": [
         {
@@ -104,13 +69,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -118,13 +76,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -132,13 +83,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -146,13 +90,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -160,13 +97,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -174,20 +104,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "Design Thinking Joinville",
-      "logo": "design-thinking.png",
+      "logo": "https://drive.google.com/file/d/1RHJSR-7TPrR5wUUJF8Q8QT4XnBRJCor4/view",
       "description": "Mensalmente, vamos nos reunir o pessoal interessado em Design Thinking, Design de Serviços e Inovação, com o objetivo de trocar conhecimentos, fazer projetos práticos e trazer novidades!",
       "events": [
         {
@@ -195,13 +118,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -209,13 +125,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -223,13 +132,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -237,13 +139,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -251,13 +146,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -265,20 +153,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "Gophers Joinville",
-      "logo": "golang.jpg",
+      "logo": "https://drive.google.com/file/d/1y6U7oD-LIEMQQ71lkUlpiz-K4cSWooAf/view",
       "description": "Grupo destinado a quem quer ensinar ou aprender mais sobre a promissora liguagem GO (Golang).",
       "events": [
         {
@@ -286,13 +167,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -300,13 +174,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -314,13 +181,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -328,13 +188,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -342,13 +195,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -356,20 +202,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "OpenSource Joinville",
-      "logo": "open-source.png",
+      "logo": "https://drive.google.com/file/d/1J5nj3okBwitSudO1PxzAxuykSJXsZ9jB/view",
       "description": "Este grupo tem como objetivo discutir sobre projetos OpenSource, promover projetos novos ou existentes e, principalmente, engajar a comunidade a contribuir.",
       "events": [
         {
@@ -377,13 +216,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -391,13 +223,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -405,13 +230,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -419,13 +237,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -433,13 +244,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -447,20 +251,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "Software Quality Joinville",
-      "logo": "software-quality.png",
+      "logo": "https://drive.google.com/file/d/1b37ZCd_-a2Cu1NGqluEz3YNsOm3zeS0o/view",
       "description": "Comunidade destinada aos profissionais de Qualidade de Software de Joinville. O intuito do grupo é fortalecer a interação entre os profissinais dessa area, compartilhando experiência, conteúdo, cases e etc.",
       "events": [
         {
@@ -468,13 +265,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -482,13 +272,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -496,13 +279,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -510,13 +286,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -524,13 +293,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -538,20 +300,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "DevOps Joinville",
-      "logo": "devops.png",
+      "logo": "https://drive.google.com/file/d/1_U884vKluRpTd5SPsDUSwlSsYNyNhCQE/view",
       "description": "We are all about sharing information, we like to hack and get our hands dirty with DevOps tools.",
       "events": [
         {
@@ -559,13 +314,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -573,13 +321,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -587,13 +328,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -601,13 +335,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -615,13 +342,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -629,20 +349,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "Python Joinville",
-      "logo": "python.jpg",
+      "logo": "https://drive.google.com/file/d/1r-bpKr28AeB9WqvTRCpFQNE58c1GJO0-/view",
       "description": "Nosso objetivo é trocar conhecimento sobre o ecossistema de tecnologias ao redor da linguagem Python e desenvolvimento de software.",
       "events": [
         {
@@ -650,13 +363,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -664,13 +370,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -678,13 +377,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -692,13 +384,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -706,13 +391,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -720,20 +398,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "Elixir Joinville",
-      "logo": "elixir.jpg",
+      "logo": "https://drive.google.com/file/d/1rYkBIGQhiqkqiMcLQKVdrzZk0ZWRQjgn/view",
       "description": "Comunidade de programadores de Elixir de Joinville.",
       "events": [
         {
@@ -741,13 +412,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -755,13 +419,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -769,13 +426,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -783,13 +433,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -797,13 +440,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -811,20 +447,13 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
     },
     {
       "name": "JavaScript Joinville",
-      "logo": "js.png",
+      "logo": "https://drive.google.com/file/d/1-Gex5yd7l1ApEI4_cYhPSUgiXzqwlJDu/view",
       "description": "Este é um grupo para usuários e entusiastas em tecnologias relacionados ao javascript. Com ele pretendemos instigar debates e trocar experiências sobre técnicas, bibliotecas e frameworks javascript.",
       "events": [
         {
@@ -832,13 +461,6 @@
           "date": "30/09/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -846,13 +468,6 @@
           "date": "30/08/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -860,13 +475,6 @@
           "date": "30/07/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -874,13 +482,6 @@
           "date": "30/06/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -888,13 +489,6 @@
           "date": "30/05/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         },
         {
@@ -902,13 +496,6 @@
           "date": "30/04/2020",
           "initial_hour": "13:00",
           "end_hour": "17:00",
-          "address": {
-            "place": "SESC Joinville (America)",
-            "neighborhood": "América",
-            "street": "Rua Itaiopolis",
-            "number": "470",
-            "code": "89204-100"
-          },
           "participants": "10"
         }
       ]
