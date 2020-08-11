@@ -1,5 +1,5 @@
 const meetups = require('../../../public/meetups.json')
-const { formatDate, formatHour } = require('../../utils/format')
+const { formatDatetime } = require('../../utils/format')
 
 exports.seed = function (knex, promise) {
   return knex('events').del()
@@ -9,9 +9,8 @@ exports.seed = function (knex, promise) {
         meetup.events.forEach(event => {
           const newEvent = {
             title: String(event.title).trim(),
-            event_date: formatDate(event.date),
-            initial_hour: formatHour(event.initial_hour),
-            end_hour: formatHour(event.end_hour),
+            datetime_init: formatDatetime(event.datetime_init),
+            datetime_end: formatDatetime(event.datetime_end),
             participants: parseInt(event.participants),
             meetup_id: index,
             address_id: 1

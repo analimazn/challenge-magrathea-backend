@@ -3,9 +3,8 @@ exports.up = function(knex) {
   return knex.schema.createTable('events', function (table) {
     table.increments('id').primary()
     table.string('title').notNullable()
-    table.date('event_date').notNullable()
-    table.time('initial_hour').notNullable()
-    table.time('end_hour').notNullable()
+    table.datetime('datetime_init').notNullable()
+    table.datetime('datetime_end').notNullable()
     table.integer('participants')
     table.integer('meetup_id').notNullable()
     table.integer('address_id').notNullable()

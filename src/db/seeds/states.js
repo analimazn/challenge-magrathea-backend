@@ -7,6 +7,7 @@ exports.seed = function (knex, promise) {
       return knex('states').insert([
         {
           name: formatName(meetups.state),
+          uf: formatName(meetups.uf),
           country_id: 1
         }
       ])

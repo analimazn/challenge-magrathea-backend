@@ -1,6 +1,7 @@
 {
   "country": "Brasil",
   "state": "Santa Catarina",
+  "uf": "SC",
   "city": "Joinville",
   "address": {
     "place": "SESC Joinville (America)",
@@ -17,44 +18,38 @@
       "events": [
         {
           "title": "6º Meetup React Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup React Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup React Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup React Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup React Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup React Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -66,44 +61,38 @@
       "events": [
         {
           "title": "6º Meetup Agile Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup Agile Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup Agile Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup Agile Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup Agile Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup Agile Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -115,44 +104,38 @@
       "events": [
         {
           "title": "6º Meetup Design Thinking Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup Design Thinking Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup Design Thinking Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup Design Thinking Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup Design Thinking Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup Design Thinking Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -164,44 +147,38 @@
       "events": [
         {
           "title": "6º Meetup Gophers Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup Gophers Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup Gophers Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup Gophers Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup Gophers Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup Gophers Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -213,44 +190,38 @@
       "events": [
         {
           "title": "6º Meetup OpenSource Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup OpenSource Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup OpenSource Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup OpenSource Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup OpenSource Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup OpenSource Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -262,44 +233,38 @@
       "events": [
         {
           "title": "6º Meetup Software Quality Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup Software Quality Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup Software Quality Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup Software Quality Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup Software Quality Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup Software Quality Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -311,44 +276,38 @@
       "events": [
         {
           "title": "6º Meetup DevOps Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup DevOps Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup DevOps Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup DevOps Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup DevOps Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup DevOps Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -360,44 +319,38 @@
       "events": [
         {
           "title": "6º Meetup Python Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup Python Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup Python Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup Python Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup Python Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup Python Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -409,44 +362,38 @@
       "events": [
         {
           "title": "6º Meetup Elixir Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup Elixir Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup Elixir Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup Elixir Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup Elixir Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup Elixir Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
@@ -458,44 +405,38 @@
       "events": [
         {
           "title": "6º Meetup JavaScript Joinville",
-          "date": "30/09/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-09-30 13:00",
+          "datetime_end": "2020-09-30 17:00",
           "participants": "10"
         },
         {
           "title": "5º Meetup JavaScript Joinville",
-          "date": "30/08/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-08-30 13:00",
+          "datetime_end": "2020-08-30 17:00",
           "participants": "10"
         },
         {
           "title": "4º Meetup JavaScript Joinville",
-          "date": "30/07/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-07-30 13:00",
+          "datetime_end": "2020-07-30 17:00",
           "participants": "10"
         },
         {
           "title": "3º Meetup JavaScript Joinville",
-          "date": "30/06/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-06-30 13:00",
+          "datetime_end": "2020-06-30 17:00",
           "participants": "10"
         },
         {
           "title": "2º Meetup JavaScript Joinville",
-          "date": "30/05/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-05-30 13:00",
+          "datetime_end": "2020-05-30 17:00",
           "participants": "10"
         },
         {
           "title": "1º Meetup JavaScript Joinville",
-          "date": "30/04/2020",
-          "initial_hour": "13:00",
-          "end_hour": "17:00",
+          "datetime_init": "2020-04-30 13:00",
+          "datetime_end": "2020-04-30 17:00",
           "participants": "10"
         }
       ]
