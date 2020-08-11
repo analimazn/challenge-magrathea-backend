@@ -1,8 +1,8 @@
 const { meetupService } = require('../services/index')
 
-async function list(req, res) {
+async function listMeetups(req, res) {
   try {
-    const data = await meetupService.findMeetups()
+    const data = await meetupService.listMeetups()
     res
       .status(200)
       .json({
@@ -23,5 +23,5 @@ async function list(req, res) {
 }
 
 module.exports = {
-  list
+  listMeetups
 }
