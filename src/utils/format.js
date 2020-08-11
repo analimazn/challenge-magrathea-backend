@@ -1,30 +1,22 @@
 const moment = require('moment')
 
 function formatCode(code) {
-  return code.replace(/[^0-9]+/, '')
+  const newCode = code.replace(/[^0-9]+/, '')
+  return newCode
 }
 
-function formatDate(date) {
-  const newDate = moment(date, 'DD/MM/YYYY')
-  return moment(newDate).utc().format()
-}
-
-const formatHour = (hour) => {
-  if (typeof hour !== 'string') {
-    const newHour = moment(hour).utc().format('HH:mm')
-    return newHour
-  }
-  const newHour = moment(hour, 'HH:mm a').format('HH:mm')
-  return newHour
+function formatDatetime(date) {
+  const newDate = moment(date).local().format('YYYY-MM-DD HH:mm:ss')
+  return newDate
 }
 
 function formatName(name) {
-  return String(name).toUpperCase().trim()
+  const newName = String(name).toUpperCase().trim()
+  return newName
 }
 
 module.exports = {
   formatCode,
-  formatDate,
-  formatHour,
+  formatDatetime,
   formatName
 }
