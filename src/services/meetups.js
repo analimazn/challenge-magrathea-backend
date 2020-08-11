@@ -1,8 +1,12 @@
 const { meetupModel } = require('../models/index')
+const { parseMeetup } = require('../utils/formatMeetup')
 
-async function findMeetups() {
+async function listMeetups() {
   try {
-    const meetups = await meetupModel.findAll()
+    const data = await meetupModel.findAll()
+    const meetups = await data.map(obj => {
+      return parseMeetup(obj)
+    })
     return meetups
   } catch(err) {
     throw err
@@ -10,5 +14,5 @@ async function findMeetups() {
 }
 
 module.exports = {
-  findMeetups
+  listMeetups
 }
