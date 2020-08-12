@@ -5,6 +5,7 @@ function parseMeetup(meetup) {
     description: meetup.description,
     url_logo: meetup.url_logo,
     next_event: {
+      id: meetup.event_id,
       title: meetup.title,
       datetime_init: meetup.datetime_init,
       datetime_end: meetup.datetime_end
