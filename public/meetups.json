@@ -13,7 +13,7 @@
   "data": [
     {
       "name": "React Joinville",
-      "logo": "https://drive.google.com/file/d/1RiAFy8ZP8K-eDMvA8boGr3Dpb2GrMXXw/view",
+      "logo": "static/svg/react.svg",
       "description": "Meetup para discutirmos e aprendermos juntos sobre React, React Native e tudo que gira em torno desse ecossistema.",
       "events": [
         {
@@ -56,7 +56,7 @@
     },
     {
       "name": "Agile Joinville",
-      "logo": "https://drive.google.com/file/d/1AL-eJSvQ8JK4MkcSZxN_M1NvK_0sHaQ5/view",
+      "logo": "static/svg/agile.svg",
       "description": "Este grupo é destinado a todos os interessados nas práticas de metodologias ágeis de desenvolvimento de software.",
       "events": [
         {
@@ -99,7 +99,7 @@
     },
     {
       "name": "Design Thinking Joinville",
-      "logo": "https://drive.google.com/file/d/1RHJSR-7TPrR5wUUJF8Q8QT4XnBRJCor4/view",
+      "logo": "static/svg/design-thinking.svg",
       "description": "Mensalmente, vamos nos reunir o pessoal interessado em Design Thinking, Design de Serviços e Inovação, com o objetivo de trocar conhecimentos, fazer projetos práticos e trazer novidades!",
       "events": [
         {
@@ -142,7 +142,7 @@
     },
     {
       "name": "Gophers Joinville",
-      "logo": "https://drive.google.com/file/d/1y6U7oD-LIEMQQ71lkUlpiz-K4cSWooAf/view",
+      "logo": "static/svg/golang.svg",
       "description": "Grupo destinado a quem quer ensinar ou aprender mais sobre a promissora liguagem GO (Golang).",
       "events": [
         {
@@ -185,7 +185,7 @@
     },
     {
       "name": "OpenSource Joinville",
-      "logo": "https://drive.google.com/file/d/1J5nj3okBwitSudO1PxzAxuykSJXsZ9jB/view",
+      "logo": "static/svg/open-source.svg",
       "description": "Este grupo tem como objetivo discutir sobre projetos OpenSource, promover projetos novos ou existentes e, principalmente, engajar a comunidade a contribuir.",
       "events": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "name": "Software Quality Joinville",
-      "logo": "https://drive.google.com/file/d/1b37ZCd_-a2Cu1NGqluEz3YNsOm3zeS0o/view",
+      "logo": "static/svg/software-quality.svg",
       "description": "Comunidade destinada aos profissionais de Qualidade de Software de Joinville. O intuito do grupo é fortalecer a interação entre os profissinais dessa area, compartilhando experiência, conteúdo, cases e etc.",
       "events": [
         {
@@ -271,7 +271,7 @@
     },
     {
       "name": "DevOps Joinville",
-      "logo": "https://drive.google.com/file/d/1_U884vKluRpTd5SPsDUSwlSsYNyNhCQE/view",
+      "logo": "static/svg/devops.svg",
       "description": "We are all about sharing information, we like to hack and get our hands dirty with DevOps tools.",
       "events": [
         {
@@ -314,7 +314,7 @@
     },
     {
       "name": "Python Joinville",
-      "logo": "https://drive.google.com/file/d/1r-bpKr28AeB9WqvTRCpFQNE58c1GJO0-/view",
+      "logo": "static/svg/python.svg",
       "description": "Nosso objetivo é trocar conhecimento sobre o ecossistema de tecnologias ao redor da linguagem Python e desenvolvimento de software.",
       "events": [
         {
@@ -357,7 +357,7 @@
     },
     {
       "name": "Elixir Joinville",
-      "logo": "https://drive.google.com/file/d/1rYkBIGQhiqkqiMcLQKVdrzZk0ZWRQjgn/view",
+      "logo": "static/svg/elixir.svg",
       "description": "Comunidade de programadores de Elixir de Joinville.",
       "events": [
         {
@@ -400,7 +400,7 @@
     },
     {
       "name": "JavaScript Joinville",
-      "logo": "https://drive.google.com/file/d/1-Gex5yd7l1ApEI4_cYhPSUgiXzqwlJDu/view",
+      "logo": "static/svg/javascript.svg",
       "description": "Este é um grupo para usuários e entusiastas em tecnologias relacionados ao javascript. Com ele pretendemos instigar debates e trocar experiências sobre técnicas, bibliotecas e frameworks javascript.",
       "events": [
         {
