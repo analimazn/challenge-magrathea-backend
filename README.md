@@ -58,7 +58,7 @@ npx knex seed:run
 
 ## Reinicializando o DB
 
-Caso seja preciso realizar alguma alteração, execute os comandos abaixo respeitando a ordem:
+Caso seja preciso desfazer alguma alteração, execute os comandos abaixo respeitando a ordem:
 
 ```sh
 npx knex migrate:rollback
@@ -155,6 +155,7 @@ O diretório `public` contém um arquivo estático `.json` com as informações 
 O diretório DB contém os arquivos necessários para a criação das tabelas e inserção dos dados, de acordo com a biblioteca`knex`.
 
 **migrations**: Arquivos `.js` com a estrutura das tabelas.
+
 **seeds**: Arquivos `.js` que realizam a leitura dos dados do arquivo estático localizado em `/public` e insere-os nas tabelas criadas.
 
 
@@ -272,16 +273,16 @@ O arquivo de `routes.js` contém todas as rotas disponíveis na aplicação:
 
 ## Dependências
 
-- [dotenv](https://ghub.io/dotenv): Carrega variáveis de ambiente a partir de um arquivo `.env` dentro de `process.env`.
-- [express](https://ghub.io/express): Framework para servidor web.
-- [cors](https://ghub.io/expressjs/cors): CORS é um pacote `node.js` que pode ser utilizado para habilitar conexões para o servidor `express`.
-- [moment](https://ghub.io/moment): Biblioteca responsável por validar e manipular datas.
+- [dotenv](https://www.npmjs.com/package/dotenv): Carrega variáveis de ambiente a partir de um arquivo `.env` dentro de `process.env`.
+- [express](https://expressjs.com/): Framework para servidor web.
+- [cors](https://www.npmjs.com/package/cors): CORS é um pacote `node.js` que pode ser utilizado para habilitar conexões para o servidor `express`.
+- [moment](https://momentjs.com/): Biblioteca responsável por validar e manipular datas.
 - [pg](https://node-postgres.com/): Cliente PostgreSQL para NodeJS.
 - [knex](http://knexjs.org/): Biblioteca para criação de queries SQL.
 
 
 ## Dependências de desenvolvimento
 
-- [nodemon](https://ghub.io/nodemon): Biblioteca responsável por recarregar o servidor a cada atualização feita no projeto.
+- [nodemon](https://nodemon.io/): Biblioteca responsável por recarregar o servidor a cada atualização feita no projeto.
 - [sqlite3](https://www.npmjs.com/package/sqlite3): Cliente SQLite para NodeJS.
 
