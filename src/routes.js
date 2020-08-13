@@ -1,10 +1,13 @@
 const {
+  appController,
   meetupController,
   eventController
 } = require('./controllers/index')
 
 const express = require('express')
 const routes = express.Router()
+
+routes.get('/', appController.index)
 
 routes.get('/meetups', meetupController.listMeetups)
 
