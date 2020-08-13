@@ -35,6 +35,13 @@ npm install
 
 Crie o arquivo `.env` de acordo com o arquivo `.env.example`.
 
+```
+NODE_ENV= (se deixar em branco por padrão executará em development)
+PORT= (se deixar em branco por padrão executará na porta 3000)
+DATABASE_URL= (preencher apenas se for executar em produção)
+STAGE_DATABASE_URL= (preencher apenas se for executar em um banco postgres, por padrão usará o sqlite)
+```
+
 Para esse projeto foi utilizado o banco de dados relacional [PostgreSQL](https://www.postgresql.org), para uso em ambientes de Teste e Produção, e [SQLite](https://www.sqlite.org/index.html), para uso em ambiente de desenvolvimento. Caso ainda não tenha o PostgreSQL instalado, siga o passo-a-passo [aqui](https://www.postgresql.org/docs/10/tutorial-start.html)
 
 
