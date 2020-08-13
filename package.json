@@ -27,7 +27,6 @@
     "pg": "^8.3.0"
   },
   "devDependencies": {
-    "jest": "^26.2.2",
     "nodemon": "^2.0.4",
     "sqlite3": "^5.0.0"
   }
