@@ -4,7 +4,7 @@ const { parseEvent } = require('../utils/formatEvent')
 async function listPastEventsByMeetupId(meetupId) {
   try {
     const data = await eventModel.findPastEventsByMeetupId(meetupId)
-    const events = await data.map(obj => {
+    const events = await data.data.map(obj => {
       return parseEvent(obj)
     })
     return events
@@ -16,7 +16,7 @@ async function listPastEventsByMeetupId(meetupId) {
 async function listCurrentEventsByMeetupId(meetupId) {
   try {
     const data = await eventModel.findCurrentEventsByMeetupId(meetupId)
-    const events = await data.map(obj => {
+    const events = await data.data.map(obj => {
       return parseEvent(obj)
     })
     return events
