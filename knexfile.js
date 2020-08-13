@@ -7,10 +7,10 @@ module.exports = {
       filename: './src/db/db.sqlite'
     },
     migrations: {
-      directory: './src/db/migrations'
+      directory: __dirname + '/db/migrations',
     },
     seeds: {
-      directory: './src/db/seeds',
+      directory: __dirname + '/db/migrations',
     },
     useNullAsDefault: true
   },
@@ -23,10 +23,10 @@ module.exports = {
       max: 10
     },
     migrations: {
-      tableName: 'knex_migrations'
+      directory: __dirname + '/db/migrations',
     },
     seeds: {
-      directory: './src/db/seeds',
+      directory: __dirname + '/db/seeds',
     },
   },
 
@@ -38,10 +38,10 @@ module.exports = {
       max: 10
     },
     migrations: {
-      tableName: 'knex_migrations'
+      directory: __dirname + '/db/migrations',
     },
     seeds: {
-      directory: './src/db/seeds',
+      directory: __dirname + '/db/seeds',
     }
   }
 
