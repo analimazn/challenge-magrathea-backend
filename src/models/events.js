@@ -25,6 +25,7 @@ async function findPastEventsByMeetupId(meetupId) {
         left join countries as cn on s.country_id=cn.id
         where e.meetup_id=${meetupId}
         and e.datetime_init < CURRENT_DATE
+        order by e.datetime_init
       `)
     return events
   } catch (err) {
@@ -57,6 +58,7 @@ async function findCurrentEventsByMeetupId(meetupId) {
         left join countries as cn on s.country_id=cn.id
         where e.meetup_id=${meetupId}
         and e.datetime_init > CURRENT_DATE
+        order by e.datetime_init
       `)
     return events
   } catch (err) {

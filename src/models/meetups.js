@@ -16,7 +16,8 @@ async function findAll() {
           left join events as e
           on m.id = e.meetup_id
           where e.datetime_init > CURRENT_DATE
-		      group by m.id
+          group by m.id
+          order by e.datetime_init
         `)
     return meetups
   } catch (err) {
