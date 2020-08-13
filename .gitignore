@@ -2,4 +2,3 @@ node_modules/
 src/db/db.sqlite
 package-lock.json
 .env
-knexfile.js
